@@ -21,6 +21,7 @@
 <p align="centre"> <img src="https://komarev.com/ghpvc/?username=amitosh2578&label=Views&color=blue&style=plastic" alt="amitosh2578" /> </p>
 </div>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<p align="center">
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"/>
@@ -44,7 +45,7 @@
 <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black"/>
 <img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white"/>
 <img src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html&logoColor=white"/>
-
+</p>
 <div align="center">
 
 <a href="https://www.linkedin.com/in/amitosh-mohapatra-477a97213/">
