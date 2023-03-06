@@ -18,7 +18,7 @@
 <br>
 <div align="center">
 
-<p align="centre"> <img src="https://komarev.com/ghpvc/?username=Swastik2000&label=Views&color=blue&style=plastic" alt="Swastik2000" /> </p>
+<p align="centre"> <img src="https://komarev.com/ghpvc/?username=amitosh2578&label=Views&color=blue&style=plastic" alt="amitosh2578" /> </p>
 </div>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
