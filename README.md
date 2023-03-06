@@ -21,7 +21,7 @@
 <p align="centre"> <img src="https://komarev.com/ghpvc/?username=amitosh2578&label=Views&color=blue&style=plastic" alt="amitosh2578" /> </p>
 </div>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
-[![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)]
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
 
 <div align="center">
 
