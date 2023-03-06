@@ -24,24 +24,13 @@
 
 <div align="center">
 
-<a href="https://twitter.com/KumarAs46674624">
-  <img align="left" alt="Ashwini's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://www.linkedin.com/in/amitosh-mohapatra-477a97213/">
+  <img align="left" alt="Amitosh Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.linkedin.com/in/ashwini-kumar-behera-14a9a4215/">
-  <img align="left" alt="Ashwini's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://github.com/amitosh2578">
+  <img align="left" alt="Amitosh Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://github.com/Kumar2390">
-  <img align="left" alt="Ashwini's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://t.me/@Ash_2390">
-  <img align="left" alt="Ashwini's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/itz__ash._/">
-  <img align="left" alt="Ashwini's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=100011461903115">
-  <img align="left" alt="Ashwini's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+
 </div>
 
 
@@ -49,39 +38,37 @@
 <br/>
 
 
-- 🔭 I’m currently working on Firewall
-- 🌱 I’m currently learning Ethical hacking
-- 💬 Ask me about any tech related stuff or about social or poltical issues.
-- 📫 How to reach me: Through above social media platforms
+- 🌱 I’m currently learning ML
+- 💬 Ask me about any tech related stuff.
 - 😄 Pronouns: He/His/Mr
-- ⚡ Fun fact: Showers really do spark creativity.
-- 😅 Another Fun fact: Humans are just one of the estimated 8.7 million species on Earth.
+- ⚡ Fun fact: Google's First Tweet was in binary.
+- 😅 Another Fun fact: Nokia's first product is toilet paper.
 
 
 <div align="center">
 
-[![Twitter: KumarAs46674624](https://img.shields.io/twitter/follow/KumarAs46674624?style=social)](https://twitter.com/KumarAs46674624)
-[![Linkedin: ashwini-kumar-behera-14a9a4215](https://img.shields.io/badge/-Ashwini_Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashwini-kumar-behera-14a9a4215//)](https://www.linkedin.com/in/ashwini-kumar-behera-14a9a4215/)
-[![GitHub Kumar2390](https://img.shields.io/github/followers/Kumar2390?label=follow&style=social)](https://github.com/Kumar2390)
+
+[![Linkedin: amitosh-mohapatra-477a97213](https://img.shields.io/badge/-Amitosh_Mohapatra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amitosh-mohapatra-477a97213//)](https://www.linkedin.com/in/amitosh-mohapatra-477a97213/)
+[![GitHub amitosh2578](https://img.shields.io/github/followers/amitosh2578?label=follow&style=social)](https://github.com/amitosh2578)
 </div>
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/Kumar2390/Kumar2390)*
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/amitosh2578/amitosh2578)*
 
 
-<a href="https://github.com/Kumar2390">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kumar2390&&show_icons=true&count_private=true&title_color=bd93f9&icon_color=0E86D4&text_color=daf7dc&bg_color=151515" alt="Ashwini's github stats"/>
+<a href="https://github.com/amitosh2578">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitosh2578&&show_icons=true&count_private=true&title_color=bd93f9&icon_color=0E86D4&text_color=daf7dc&bg_color=151515" alt="Amitosh github stats"/>
 </a>
-<a href="https://github.com/Kumar2390">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumar2390&hide=php&theme=algolia" />
+<a href="https://github.com/amitosh2578">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitosh2578&hide=php&theme=algolia" />
 </a>
 
 
 <div align="center">
 
-<img align="centre" src="https://github.com/Kumar2390/Kumar2390/blob/main/Developer.gif"/>
+<img align="centre" src="https://github.com/amitosh2578/amitosh2578/blob/main/Developer.gif"/>
 
 </div>
 
@@ -90,16 +77,3 @@
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
-
-<!--
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swastik2000)]
-
--->
-
