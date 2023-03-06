@@ -1,11 +1,11 @@
-### Hi there, I'm Ashwini Kumar Behera! 👋      Welcome to my Profile's README!
+### Hi there, I'm AMITOSH MOHAPATRA! 👋      Welcome to my Profile's README!
 ---
 
 <p align="center">
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
   <br><br>
   <samp>
-    I'm Ashwini Kumar Behera :wave:
+    I'm Amitosh Mohapatra :wave:
     <br><br>
     Currently studying in ITER, SOA Unviersity🏫🎓 !
     <br><br>
