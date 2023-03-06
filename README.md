@@ -1,6 +1,6 @@
 ### Hi there, I'm AMITOSH MOHAPATRA! 👋      Welcome to my Profile's README!
 ---
-<img src="https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt="my banner">
+
 <p align="center">
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
   <br><br>
@@ -8,10 +8,10 @@
     I'm Amitosh Mohapatra :wave:
     <br><br>
     Currently studying in ITER, SOA Unviersity🏫🎓 !
-    <br><br>
+    <!--<br><br>
     I believe in a world where Milkshakes and Coffee can solve any and all kind of problems :grin:
     <br><br>
-    P.S. I do know that HTML is not a programming language! :v:
+    P.S. I do know that HTML is not a programming language! :v:-->
   </samp>
 </p>
 
