@@ -96,6 +96,13 @@
 -->
 <div align="center"><p>&nbsp;<img align="center" src="https://streak-stats.demolab.com?user=amitosh2578" alt="amitosh2578" /></p>
 </div>
+
+<br/>
+<br/>
+<div align="center">
+<a href="https://github.com/amitosh2578/github-readme-activity-graph"><img alt="Amitosh's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=amitosh2578&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+</div>
+
 <div align="center">
 
 <img align="centre" src="https://github.com/amitosh2578/amitosh2578/blob/main/Developer.gif"/>
