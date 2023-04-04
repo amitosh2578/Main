@@ -82,7 +82,7 @@
 *NOTE: These Languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/amitosh2578/amitosh2578)*
 
 <br/>
-    <a href="https://github.com/amitosh2578/github-readme-stats"><img alt="Amitosh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amitosh2578&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=amitosh2578&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>![](https://user-images.githubusercontent.com/41143496/111524041-fc65e800-8781-11eb-8a84-ae5e8517b1f7.mp4)
   <a href="https://github.com/amitosh2578/github-readme-stats"><img alt="Amitosh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitosh2578&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
@@ -112,5 +112,6 @@
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
+<img src="https://user-images.githubusercontent.com/41143496/111601768-b13aec00-87f8-11eb-8d8c-51db093db5da.gif" alt="Thankyou Github!" width="425">
 
 </div>
