@@ -83,9 +83,10 @@
 
 <br/>
 <div align="center">
-    <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=amitosh2578&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=amitosh2578&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+<br/>
   <a href="https://github.com/amitosh2578/github-readme-stats"><img alt="Amitosh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitosh2578&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
+<br/>
 </div>
 <!--
 <a href="https://github.com/amitosh2578">
