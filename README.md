@@ -78,8 +78,13 @@
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-
+## 📊 My Github Stats
 *NOTE: These Languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/amitosh2578/amitosh2578)*
+
+<br/>
+    <a href="https://github.com/amitosh2578/github-readme-stats"><img alt="Amitosh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amitosh2578&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/amitosh2578/github-readme-stats"><img alt="Amitosh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitosh2578&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
 
 <!--
 <a href="https://github.com/amitosh2578">
