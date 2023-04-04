@@ -95,6 +95,7 @@
 </a>
 -->
 <div align="center"><p>&nbsp;<img align="center" src="https://streak-stats.demolab.com?user=amitosh2578" alt="amitosh2578" /></p>
+</div>
 <div align="center">
 
 <img align="centre" src="https://github.com/amitosh2578/amitosh2578/blob/main/Developer.gif"/>
